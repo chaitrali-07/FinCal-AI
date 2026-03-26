@@ -13,7 +13,7 @@
 
 ## 📌 About the Project
 
-**FinCal-AI (Finova)** is a comprehensive full-stack web application that brings together **19 financial calculators**, **interactive data visualizations**, and an **AI-powered financial assistant** — all in one platform. Whether you want to calculate your EMI, plan your investments, or simply ask a finance-related question, Finova has you covered.
+**FinCal-AI (Finova)** is a comprehensive full-stack web application that brings together **15 financial calculators**, **interactive data visualizations**, and an **AI-powered financial assistant** — all in one platform. Whether you want to calculate your EMI, plan your investments, or simply ask a finance-related question, Finova has you covered.
 
 The project also includes a **personal dashboard** for a quick financial overview and a **history feature** to track all your past calculations.
 
@@ -24,32 +24,28 @@ This project was developed as a **Final Year Project** by a team of 4 developers
 ## ✨ Features
 
 - 🤖 **AI Financial Assistant** — Powered by Groq API, ask any finance-related question and get instant intelligent answers
-- 🧮 **19 Financial Calculators** — Covering all major finance topics like EMI, SIP, Tax, Interest, Investment, and more
+- 🧮 **15 Financial Calculators** — Covering all major finance topics like EMI, SIP, Tax, Interest, Investment, and more
 - 📊 **Charts & Graphs** — Every calculator comes with interactive visualizations for better understanding
 - 🗂️ **Calculation History** — View and track all your past calculations in one place
 - 📋 **Dashboard** — A clean overview of your financial activity at a glance
 - 🔐 **User Authentication** — Secure login and signup using Firebase
-- 📧 **Email Notifications** — Gmail SMTP integration for alerts and updates
-- 📥 **CSV Download** — Export your calculation data as CSV files
+
 
 ---
 
-## 🧮 Calculators (19 Total)
+## 🧮 Calculators (15 Total)
 
 | # | Calculator | # | Calculator |
 |---|-----------|---|-----------|
-| 1 | EMI Calculator | 11 | Inflation Calculator |
-| 2 | SIP Calculator | 12 | Savings Goal Calculator |
-| 3 | Income Tax Calculator | 13 | Budget Calculator |
-| 4 | Fixed Deposit (FD) Calculator | 14 | Net Worth Calculator |
-| 5 | Recurring Deposit (RD) Calculator | 15 | GST Calculator |
-| 6 | Simple Interest Calculator | 16 | Currency Converter |
-| 7 | Compound Interest Calculator | 17 | Mutual Fund Calculator |
-| 8 | Loan Calculator | 18 | Home Loan Calculator |
-| 9 | Investment Return Calculator | 19 | Car Loan Calculator |
-| 10 | Retirement Calculator | | |
+| 1 | EMI Calculator | 9 | Income Tax - Old Regime |
+| 2 | SIP Calculator | 10 | Income Tax - New Regime |
+| 3 | Lumpsum Investment Calculator | 11 | Tax Regime Comparison |
+| 4 | CAGR Calculator | 12 | ROI Calculator |
+| 5 | Required Return Calculator | 13 | Inflation Adjusted Value |
+| 6 | Fixed Deposit (FD) Calculator | 14 | Future Value with Inflation |
+| 7 | Recurring Deposit (RD) Calculator | 15 | Retirement Corpus Calculator |
+| 8 | RD Calculator (Simplified) | | |
 
-> *(Update this list with your actual calculator names if different)*
 
 ---
 
@@ -63,7 +59,7 @@ This project was developed as a **Final Year Project** by a team of 4 developers
 | Database / Auth | Firebase |
 | AI Integration | Groq AI API |
 | Charts & Graphs | Chart.js / Recharts |
-| Email Service | Gmail SMTP (Nodemailer) |
+
 
 ---
 
@@ -74,7 +70,7 @@ This project was developed as a **Final Year Project** by a team of 4 developers
 | **Chaitrali** | Frontend Developer | React UI, Calculators, Dashboard, Charts & Visualizations |
 | **Jagruti** | Backend Developer | Node.js, Express.js, REST APIs |
 | **Siddhi** | Database Manager | Firebase, Data Modeling, History Feature |
-| **Sakshi** | API Integration | Groq AI API, Python FastAPI, Email Service |
+| **Sakshi** | API Integration | Groq AI API, Python FastAPI |
 
 ---
 
@@ -170,12 +166,13 @@ Never push these to GitHub. Keep them only in your local `.env` file.
 
 ## 📸 Screenshots
 
+<img width="1890" height="1027" alt="Screenshot 2026-03-26 155216" src="https://github.com/user-attachments/assets/afc19063-695f-44f4-b81e-196950e99163" />
 
-| Dashboard | Calculator | AI Assistant |
-|-----------|-----------|--------------|
-| !<img width="1890" height="1027" alt="Screenshot 2026-03-26 155216" src="https://github.com/user-attachments/assets/afc19063-695f-44f4-b81e-196950e99163" /> |
-| !<img width="1900" height="1022" alt="Screenshot 2026-03-26 155330" src="https://github.com/user-attachments/assets/6feff5d3-12f2-40e4-b467-1b8157283336" /> |
- | !<img width="1901" height="1027" alt="image" src="https://github.com/user-attachments/assets/5325d804-b065-4dba-8ff9-ae5d07d1f4ba" /> |
+  
+<img width="1900" height="1022" alt="Screenshot 2026-03-26 155330" src="https://github.com/user-attachments/assets/6feff5d3-12f2-40e4-b467-1b8157283336" />
+
+
+<img width="1901" height="1027" alt="image" src="https://github.com/user-attachments/assets/5325d804-b065-4dba-8ff9-ae5d07d1f4ba" />
 
 ---
 
