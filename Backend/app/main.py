@@ -15,10 +15,17 @@ from firebase_admin import credentials, auth as firebase_auth
 load_dotenv()
 
 # ── Firebase Admin init ───────────────────────────────────────────────────────
+import json
+
 try:
     firebase_admin.get_app()
 except ValueError:
-    _cred = credentials.Certificate("firebase-key.json")
+    firebase_creds = os.getenv("FIREBASE_CREDENTIALS")
+    if firebase_creds:
+        cred_dict = json.loads(firebase_creds)
+        _cred = credentials.Certificate(cred_dict)
+    else:
+        _cred = credentials.Certificate("firebase-key.json")
     firebase_admin.initialize_app(_cred)
 
 # ── App imports ───────────────────────────────────────────────────────────────
