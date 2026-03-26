@@ -174,7 +174,9 @@ Never push these to GitHub. Keep them only in your local `.env` file.
 
 | Dashboard | Calculator | AI Assistant |
 |-----------|-----------|--------------|
-| ![Dashboard]("C:\Users\JAGRUTI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-26 155216.png") | ![Calculator](screenshots/calculator.png) | ![AI](screenshots/ai.png) |
+| <img width="1890" height="1027" alt="Screenshot 2026-03-26 155216" src="https://github.com/user-attachments/assets/afc19063-695f-44f4-b81e-196950e99163" />
+ | <img width="1900" height="1022" alt="Screenshot 2026-03-26 155330" src="https://github.com/user-attachments/assets/6feff5d3-12f2-40e4-b467-1b8157283336" />
+ | ![AI](screenshots/ai.png) |
 
 ---
 
