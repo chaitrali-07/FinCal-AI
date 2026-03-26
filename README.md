@@ -99,6 +99,12 @@ Finova/
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend:** [https://finova-app-three.vercel.app](https://finova-app-three.vercel.app)
+- **Backend API:** [https://finova-backend-d4g4.onrender.com](https://finova-backend-d4g4.onrender.com)
+- **API Docs:** [https://finova-backend-d4g4.onrender.com/api/docs](https://finova-backend-d4g4.onrender.com/api/docs)
+
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
@@ -168,7 +174,7 @@ Never push these to GitHub. Keep them only in your local `.env` file.
 
 | Dashboard | Calculator | AI Assistant |
 |-----------|-----------|--------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Calculator](screenshots/calculator.png) | ![AI](screenshots/ai.png) |
+| ![Dashboard]("C:\Users\JAGRUTI\OneDrive\Pictures\Screenshots\Screenshot 2026-03-26 155216.png") | ![Calculator](screenshots/calculator.png) | ![AI](screenshots/ai.png) |
 
 ---
 
