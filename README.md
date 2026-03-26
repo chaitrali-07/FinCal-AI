@@ -174,9 +174,9 @@ Never push these to GitHub. Keep them only in your local `.env` file.
 
 | Dashboard | Calculator | AI Assistant |
 |-----------|-----------|--------------|
-| <img width="1890" height="1027" alt="Screenshot 2026-03-26 155216" src="https://github.com/user-attachments/assets/afc19063-695f-44f4-b81e-196950e99163" />
- | <img width="1900" height="1022" alt="Screenshot 2026-03-26 155330" src="https://github.com/user-attachments/assets/6feff5d3-12f2-40e4-b467-1b8157283336" />
- | ![AI](screenshots/ai.png) |
+| <img width="1890" height="1027" alt="Screenshot 2026-03-26 155216" src="https://github.com/user-attachments/assets/afc19063-695f-44f4-b81e-196950e99163" /> |
+| <img width="1900" height="1022" alt="Screenshot 2026-03-26 155330" src="https://github.com/user-attachments/assets/6feff5d3-12f2-40e4-b467-1b8157283336" /> |
+ | <img width="1901" height="1027" alt="image" src="https://github.com/user-attachments/assets/5325d804-b065-4dba-8ff9-ae5d07d1f4ba" /> |
 
 ---
 
